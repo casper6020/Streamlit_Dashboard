@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import datetime
-from PIL import Image
+from pillow import Image
 import plotly.express as px
 import plotly.graph_objects as go
 
